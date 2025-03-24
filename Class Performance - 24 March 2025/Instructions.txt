@@ -1,0 +1,3 @@
+Experiment with Learning Rate (lr): Change lr to 0.01 or 0.5 and analyze the convergence speed and accuracy.
+ 
+Weight Initialization Impact: Instead of random.random(), initialize W and b with random.uniform(-1,1) and compare results.
